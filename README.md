@@ -42,7 +42,7 @@ Siga os passos e inclua as informações abaixo:
 | Crie seu .env e inclua as variáveis e os valores   | `DB_USER` / `DB_PASSWORD`|
 | utilize o script de start    | `npm start` |
 
-## OBS.: As variáveis `DB_USER` e `DB_USER` irão substituir o usuário e senha da sua URL gerada no mongoDB Atlas quando for conectar a aplicação ao banco. 
+## OBS.: As variáveis `DB_USER` e `DB_PASSWORD` irão substituir o usuário e senha da sua URL gerada no mongoDB Atlas quando for conectar a aplicação ao banco. 
 
 <br>
 
